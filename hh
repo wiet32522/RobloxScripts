@@ -1572,7 +1572,7 @@ UIListLayout_9.Padding = UDim.new(0.00700000022, 0)
 
 -- Scripts
 
-local function INBXF_fake_script() -- DivazScript.GUI 
+local function RXOJWV_fake_script() -- DivazScript.GUI 
 	local script = Instance.new('LocalScript', DivazScript)
 
 	local gui = script.Parent
@@ -1697,14 +1697,14 @@ local function INBXF_fake_script() -- DivazScript.GUI
 	end)
 	
 end
-coroutine.wrap(INBXF_fake_script)()
-local function IJBB_fake_script() -- DivazScript.LocalScript 
+coroutine.wrap(RXOJWV_fake_script)()
+local function BKYCQ_fake_script() -- DivazScript.LocalScript 
 	local script = Instance.new('LocalScript', DivazScript)
 
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/wiet32522/Baddiesgold/refs/heads/main/ScriptVersionDivaz"))()
 end
-coroutine.wrap(IJBB_fake_script)()
-local function ETVPSOM_fake_script() -- DivazScript.LocalScript 
+coroutine.wrap(BKYCQ_fake_script)()
+local function VMXFMFU_fake_script() -- DivazScript.LocalScript 
 	local script = Instance.new('LocalScript', DivazScript)
 
 	local Players = game:GetService("Players")
@@ -1824,8 +1824,8 @@ local function ETVPSOM_fake_script() -- DivazScript.LocalScript
 	
 	notify("INSTRUCTION", "Punch once, then click E/Stomp once to log keys.")
 end
-coroutine.wrap(ETVPSOM_fake_script)()
-local function JBSLLD_fake_script() -- Frame_3.LocalScript 
+coroutine.wrap(VMXFMFU_fake_script)()
+local function FSBMJC_fake_script() -- Frame_3.LocalScript 
 	local script = Instance.new('LocalScript', Frame_3)
 
 	local ReplicatedStorage = game:GetService("ReplicatedStorage")
@@ -1848,8 +1848,8 @@ local function JBSLLD_fake_script() -- Frame_3.LocalScript
 	
 	riskLabel.Visible = (currentVersion ~= latestVersion)
 end
-coroutine.wrap(JBSLLD_fake_script)()
-local function AQOM_fake_script() -- AutoStomp.LocalScript 
+coroutine.wrap(FSBMJC_fake_script)()
+local function JWQYYFS_fake_script() -- AutoStomp.LocalScript 
 	local script = Instance.new('LocalScript', AutoStomp)
 
 	local Players = game:GetService("Players")
@@ -1956,8 +1956,8 @@ local function AQOM_fake_script() -- AutoStomp.LocalScript
 		end
 	end)
 end
-coroutine.wrap(AQOM_fake_script)()
-local function DRGCM_fake_script() -- AutoFight.LocalScript 
+coroutine.wrap(JWQYYFS_fake_script)()
+local function YSWJJ_fake_script() -- AutoFight.LocalScript 
 	local script = Instance.new('LocalScript', AutoFight)
 
 	local Players = game:GetService("Players")
@@ -2045,8 +2045,8 @@ local function DRGCM_fake_script() -- AutoFight.LocalScript
 		end
 	end)
 end
-coroutine.wrap(DRGCM_fake_script)()
-local function POZTPTY_fake_script() -- SpamGrabHair.LocalScript 
+coroutine.wrap(YSWJJ_fake_script)()
+local function MLYZ_fake_script() -- SpamGrabHair.LocalScript 
 	local script = Instance.new('LocalScript', SpamGrabHair)
 
 	local Players = game:GetService("Players")
@@ -2119,8 +2119,8 @@ local function POZTPTY_fake_script() -- SpamGrabHair.LocalScript
 	
 	button.MouseButton1Click:Connect(toggle)
 end
-coroutine.wrap(POZTPTY_fake_script)()
-local function CXKIABX_fake_script() -- Heal.LocalScript 
+coroutine.wrap(MLYZ_fake_script)()
+local function YBIZ_fake_script() -- Heal.LocalScript 
 	local script = Instance.new('LocalScript', Heal)
 
 	local Players = game:GetService("Players")
@@ -2266,8 +2266,8 @@ local function CXKIABX_fake_script() -- Heal.LocalScript
 		end
 	end)
 end
-coroutine.wrap(CXKIABX_fake_script)()
-local function VLNFF_fake_script() -- Fling.LocalScript 
+coroutine.wrap(YBIZ_fake_script)()
+local function UUADRW_fake_script() -- Fling.LocalScript 
 	local script = Instance.new('LocalScript', Fling)
 
 	local Players = game:GetService("Players")
@@ -2320,8 +2320,8 @@ local function VLNFF_fake_script() -- Fling.LocalScript
 	end)
 	
 end
-coroutine.wrap(VLNFF_fake_script)()
-local function SXKHY_fake_script() -- EspFrame.LocalScript 
+coroutine.wrap(UUADRW_fake_script)()
+local function WPRMT_fake_script() -- EspFrame.LocalScript 
 	local script = Instance.new('LocalScript', EspFrame)
 
 	local Players = game:GetService("Players")
@@ -2973,8 +2973,8 @@ local function SXKHY_fake_script() -- EspFrame.LocalScript
 		end
 	end)
 end
-coroutine.wrap(SXKHY_fake_script)()
-local function EPIQSW_fake_script() -- MiscFrame.FlyScript 
+coroutine.wrap(WPRMT_fake_script)()
+local function KFCJWPT_fake_script() -- MiscFrame.FlyScript 
 	local script = Instance.new('LocalScript', MiscFrame)
 
 	local Players = game:GetService("Players")
@@ -3521,8 +3521,8 @@ local function EPIQSW_fake_script() -- MiscFrame.FlyScript
 		end
 	end
 end
-coroutine.wrap(EPIQSW_fake_script)()
-local function RFEM_fake_script() -- MiscFrame.SpeedScript 
+coroutine.wrap(KFCJWPT_fake_script)()
+local function FRYJM_fake_script() -- MiscFrame.SpeedScript 
 	local script = Instance.new('LocalScript', MiscFrame)
 
 	local Players = game:GetService("Players")
@@ -3622,8 +3622,8 @@ local function RFEM_fake_script() -- MiscFrame.SpeedScript
 		uiStroke.Color = Color3.fromRGB(255,255,255)
 	end)
 end
-coroutine.wrap(RFEM_fake_script)()
-local function PBMFD_fake_script() -- Noclip.LocalScript 
+coroutine.wrap(FRYJM_fake_script)()
+local function IXYASZN_fake_script() -- Noclip.LocalScript 
 	local script = Instance.new('LocalScript', Noclip)
 
 	local Players = game:GetService("Players")
@@ -3885,8 +3885,8 @@ local function PBMFD_fake_script() -- Noclip.LocalScript
 	end)
 	
 end
-coroutine.wrap(PBMFD_fake_script)()
-local function JQGC_fake_script() -- PinkieSpin.LocalScript 
+coroutine.wrap(IXYASZN_fake_script)()
+local function QTUA_fake_script() -- PinkieSpin.LocalScript 
 	local script = Instance.new('LocalScript', PinkieSpin)
 
 	local Players = game:GetService("Players")
@@ -3932,8 +3932,8 @@ local function JQGC_fake_script() -- PinkieSpin.LocalScript
 		end
 	end)
 end
-coroutine.wrap(JQGC_fake_script)()
-local function HUOYYLA_fake_script() -- WeaponSpin.LocalScript 
+coroutine.wrap(QTUA_fake_script)()
+local function PZWNJXG_fake_script() -- WeaponSpin.LocalScript 
 	local script = Instance.new('LocalScript', WeaponSpin)
 
 	local Players = game:GetService("Players")
@@ -3968,8 +3968,8 @@ local function HUOYYLA_fake_script() -- WeaponSpin.LocalScript
 		uiStroke.Color = if spamEnabled then Color3.fromRGB(0, 255, 0) else Color3.fromRGB(255, 255, 255)
 	end)
 end
-coroutine.wrap(HUOYYLA_fake_script)()
-local function IYLO_fake_script() -- GothSpin.LocalScript 
+coroutine.wrap(PZWNJXG_fake_script)()
+local function AODAMR_fake_script() -- GothSpin.LocalScript 
 	local script = Instance.new('LocalScript', GothSpin)
 
 	local Players = game:GetService("Players")
@@ -4006,8 +4006,8 @@ local function IYLO_fake_script() -- GothSpin.LocalScript
 		uiStroke.Color = spamEnabled and Color3.fromRGB(0, 255, 0) or Color3.fromRGB(255, 255, 255)
 	end)
 end
-coroutine.wrap(IYLO_fake_script)()
-local function LUTLGO_fake_script() -- DisableKeybinds.LocalScript 
+coroutine.wrap(AODAMR_fake_script)()
+local function NAJRGEK_fake_script() -- DisableKeybinds.LocalScript 
 	local script = Instance.new('LocalScript', DisableKeybinds)
 
 	local miscButton = script.Parent
@@ -4039,8 +4039,8 @@ local function LUTLGO_fake_script() -- DisableKeybinds.LocalScript
 	
 	miscButton.MouseButton1Click:Connect(toggleBlock)
 end
-coroutine.wrap(LUTLGO_fake_script)()
-local function GYJTICJ_fake_script() -- AutoClicker.LocalScript 
+coroutine.wrap(NAJRGEK_fake_script)()
+local function QIIKG_fake_script() -- AutoClicker.LocalScript 
 	local script = Instance.new('LocalScript', AutoClicker)
 
 	local Players = game:GetService("Players")
@@ -4087,8 +4087,8 @@ local function GYJTICJ_fake_script() -- AutoClicker.LocalScript
 	end)
 	
 end
-coroutine.wrap(GYJTICJ_fake_script)()
-local function VBULQA_fake_script() -- AntiAfk.LocalScript 
+coroutine.wrap(QIIKG_fake_script)()
+local function JHSQYN_fake_script() -- AntiAfk.LocalScript 
 	local script = Instance.new('LocalScript', AntiAfk)
 
 	local Players = game:GetService("Players")
@@ -4138,8 +4138,8 @@ local function VBULQA_fake_script() -- AntiAfk.LocalScript
 		end
 	end)
 end
-coroutine.wrap(VBULQA_fake_script)()
-local function DHSO_fake_script() -- NoSlow.LocalScript 
+coroutine.wrap(JHSQYN_fake_script)()
+local function CYGLF_fake_script() -- NoSlow.LocalScript 
 	local script = Instance.new('LocalScript', NoSlow)
 
 	local Players = game:GetService("Players")
@@ -4196,8 +4196,8 @@ local function DHSO_fake_script() -- NoSlow.LocalScript
 		uiStroke.Color = enabled and Color3.fromRGB(0,255,0) or Color3.fromRGB(255,255,255)
 	end)
 end
-coroutine.wrap(DHSO_fake_script)()
-local function QDFDTXS_fake_script() -- Reset.LocalScript 
+coroutine.wrap(CYGLF_fake_script)()
+local function XBOUUM_fake_script() -- Reset.LocalScript 
 	local script = Instance.new('LocalScript', Reset)
 
 	local Players = game:GetService("Players")
@@ -4227,8 +4227,8 @@ local function QDFDTXS_fake_script() -- Reset.LocalScript
 		uiStroke.Color = Color3.fromRGB(255, 255, 255)
 	end)
 end
-coroutine.wrap(QDFDTXS_fake_script)()
-local function KEVB_fake_script() -- CopyDiscord.LocalScript 
+coroutine.wrap(XBOUUM_fake_script)()
+local function ARQJK_fake_script() -- CopyDiscord.LocalScript 
 	local script = Instance.new('LocalScript', CopyDiscord)
 
 	local button = script.Parent
@@ -4258,8 +4258,8 @@ local function KEVB_fake_script() -- CopyDiscord.LocalScript
 		end
 	end)
 end
-coroutine.wrap(KEVB_fake_script)()
-local function KUBOFTV_fake_script() -- SlayFarm.LocalScript 
+coroutine.wrap(ARQJK_fake_script)()
+local function QTKXSHM_fake_script() -- SlayFarm.LocalScript 
 	local script = Instance.new('LocalScript', SlayFarm)
 
 	local Players = game:GetService("Players")
@@ -4948,13 +4948,10 @@ local function KUBOFTV_fake_script() -- SlayFarm.LocalScript
 		end
 	end)
 end
-coroutine.wrap(KUBOFTV_fake_script)()
-local function GOYZI_fake_script() -- ATMFarm.LocalScript 
+coroutine.wrap(QTKXSHM_fake_script)()
+local function CDNLMA_fake_script() -- ATMFarm.LocalScript 
 	local script = Instance.new('LocalScript', ATMFarm)
 
-	-- Added game loaded check as requested
-	if not game:IsLoaded() then game.Loaded:Wait() end
-	
 	local Players = game:GetService("Players")
 	local RunService = game:GetService("RunService")
 	local TweenService = game:GetService("TweenService")
@@ -4990,7 +4987,6 @@ local function GOYZI_fake_script() -- ATMFarm.LocalScript
 	uiStroke.Color = Color3.fromRGB(255,255,255)
 	
 	local targetRemote = ReplicatedStorage:WaitForChild("Event", 10)
-	-- Removed Utils require since we're not using Utils.getKey() anymore
 	
 	local mainFrameCache = nil
 	do
@@ -5256,8 +5252,8 @@ local function GOYZI_fake_script() -- ATMFarm.LocalScript
 		end
 	end)
 end
-coroutine.wrap(GOYZI_fake_script)()
-local function NTSJCCP_fake_script() -- PlayerFrame.ArresttHINGIES 
+coroutine.wrap(CDNLMA_fake_script)()
+local function SGWQC_fake_script() -- PlayerFrame.ArresttHINGIES 
 	local script = Instance.new('LocalScript', PlayerFrame)
 
 	local Players = game:GetService("Players")
@@ -5570,8 +5566,8 @@ local function NTSJCCP_fake_script() -- PlayerFrame.ArresttHINGIES
 		end
 	end)
 end
-coroutine.wrap(NTSJCCP_fake_script)()
-local function FNWTZMS_fake_script() -- PlayerFrame.PlayerThinmgies 
+coroutine.wrap(SGWQC_fake_script)()
+local function DBFSR_fake_script() -- PlayerFrame.PlayerThinmgies 
 	local script = Instance.new('LocalScript', PlayerFrame)
 
 	getgenv().LoggedKeys = getgenv().LoggedKeys or {
@@ -6093,8 +6089,8 @@ local function FNWTZMS_fake_script() -- PlayerFrame.PlayerThinmgies
 	end)
 	
 end
-coroutine.wrap(FNWTZMS_fake_script)()
-local function WOHUUN_fake_script() -- BuyFrame.LocalScript 
+coroutine.wrap(DBFSR_fake_script)()
+local function SJNSJQS_fake_script() -- BuyFrame.LocalScript 
 	local script = Instance.new('LocalScript', BuyFrame)
 
 	local Players = game:GetService("Players")
@@ -6175,10 +6171,10 @@ local function WOHUUN_fake_script() -- BuyFrame.LocalScript
 	end
 	
 end
-coroutine.wrap(WOHUUN_fake_script)()
-local function VXKQC_fake_script() -- DivazScript.LocalScript 
+coroutine.wrap(SJNSJQS_fake_script)()
+local function WBAYDU_fake_script() -- DivazScript.LocalScript 
 	local script = Instance.new('LocalScript', DivazScript)
 
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/wiet32522/Scripts/refs/heads/main/Anti-CheatBypass"))()
 end
-coroutine.wrap(VXKQC_fake_script)()
+coroutine.wrap(WBAYDU_fake_script)()
